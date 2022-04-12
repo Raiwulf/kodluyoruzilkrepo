@@ -19,5 +19,6 @@ code .
 ```
 # Contributing
 >Lorem
-
+___
 # License
+[MIT](https://github.com/Raiwulf/kodluyoruzilkrepo/blob/master/LICENSE)
